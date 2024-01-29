@@ -1,0 +1,14 @@
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\bin\Debug\net8.0\EjercicioClase.exe
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\bin\Debug\net8.0\EjercicioClase.deps.json
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\bin\Debug\net8.0\EjercicioClase.runtimeconfig.json
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\bin\Debug\net8.0\EjercicioClase.dll
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\bin\Debug\net8.0\EjercicioClase.pdb
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.AssemblyInfoInputs.cache
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.AssemblyInfo.cs
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.csproj.CoreCompileInputs.cache
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.dll
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\refint\EjercicioClase.dll
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.pdb
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.genruntimeconfig.cache
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\ref\EjercicioClase.dll
