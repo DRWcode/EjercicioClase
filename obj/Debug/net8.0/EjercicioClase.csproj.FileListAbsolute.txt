@@ -12,3 +12,4 @@ D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\
 D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.pdb
 D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.genruntimeconfig.cache
 D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\ref\EjercicioClase.dll
+D:\Users\Darwin\Documents\GitHub\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.sourcelink.json

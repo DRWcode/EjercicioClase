@@ -23,8 +23,7 @@ namespace EjercicioClase
         // metodo imprimir
         public void Imprimir()
         {
-            Console.WriteLine($"Super Poder: ");
-            Console.WriteLine($"Nombre: {Nombre}");
+            Console.WriteLine($"Super Poder: {Nombre}");
             Console.WriteLine($"Descripcion: {Descripcion}");
             Console.WriteLine($"Nivel: {Nivel}");
             Console.WriteLine();
